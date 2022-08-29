@@ -1,0 +1,49 @@
+.google-png{
+    text-align: center;
+}
+.search{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    margin-right:60px;
+    margin-left:60px;
+    margin-bottom:2px;
+}
+.card{
+    text-align: center;
+    margin-right:60px;
+    margin-left:60px;
+    
+}
+.card>div>ul{
+    list-style-type: none;
+    display:inline-block;
+    margin-right:30px;
+}
+.box1{
+    background-color: #7EE5DA;
+    display:inline-block;
+    padding-top: 25px;
+    padding-left:347px;
+    
+}
+.box2{
+    background-color:#70CCC2;
+    display:inline-block;
+    padding-right:55px;
+    padding-left:50px;
+    padding-top: 5px;
+    border-right:white 3px solid;
+}
+.box3{
+    background-color:#62B3AA;
+    display:inline-block;
+    padding-left:2px;
+    padding-right:347px;
+    
+   
+}
+
+
+
+
+
